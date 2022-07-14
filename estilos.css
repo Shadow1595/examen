@@ -1,0 +1,52 @@
+body{
+    background-color: wheat;
+}
+
+.logo{
+    margin-top: 20px;
+    color: rgb(121, 0, 121);
+    margin-left: 100px;
+}
+
+.menu{
+    display: inline-block;
+    
+  
+  }
+
+  .menu li a{
+    color: rgb(121, 0, 121);
+    text-decoration: blue;
+  
+  }
+  
+  menu li{
+    display: inline-block;
+    margin: 10px;
+    font-size:  20px;
+    margin-top: 50px;
+  }
+
+
+h2{
+    margin-left: 15%;
+    margin-top: 20%;
+    color: rgb(121, 0, 121);
+}
+
+p{
+    margin-left: 15%;
+    color: rgb(70, 3, 70);
+    font-size: 15px;
+}
+
+.boton{
+    margin-left: 15%;
+    margin-top: 15%;
+}
+
+img{
+    margin-top: 15%;
+    width: 80%;
+    height: 60%;
+}
