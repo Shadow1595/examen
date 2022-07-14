@@ -8,25 +8,24 @@ body{
     margin-left: 100px;
 }
 
-.menu{
-    display: inline-block;
-    
+
+ul{
+    margin-left: 45%;
+}
   
-  }
+.menu li{
+	display: inline-block;
+	margin-top: 2%;
+    
+    padding: 20px;
+	font-size: 	20px;
+}
 
   .menu li a{
     color: rgb(121, 0, 121);
-    text-decoration: blue;
-  
-  }
-  
-  menu li{
-    display: inline-block;
-    margin: 10px;
-    font-size:  20px;
-    margin-top: 50px;
-  }
-
+     text-decoration: blue;
+     
+     }
 
 h2{
     margin-left: 15%;
@@ -50,3 +49,4 @@ img{
     width: 80%;
     height: 60%;
 }
+
